@@ -1,18 +1,31 @@
-<h1 align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/BrainLUX/BrainLUX/master/images/name.svg" alt="Alexander Dmitriev" />
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/brainlux/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/brainlux">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=brainlux&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
+</div>
 
-## Hi there! My name is Alexander 👋
+### :man_technologist: About Me :
 I'm a Web & Mobile Developer working in [Clapp Studio](https://clapp.studio/), Russia.
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/BrainLUX/BrainLUX)](https://badges.pufler.dev) -->
-[![Commits Badge](https://badges.pufler.dev/repos/BrainLUX)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/BrainLUX)](https://badges.pufler.dev)
-
+<!-- [![Commits Badge](https://badges.pufler.dev/repos/BrainLUX)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/BrainLUX)](https://badges.pufler.dev) -->
 
 
 - 🌱 I’m currently learning Angular & Kotlin
-- 🔭 I study at SPBSTU University
+- 🔭 I study at Peter the Great St. Petersburg Polytechnic University
 - 📫 You can reach me here [@brainlux](https://t.me/brainlux)
 
 ---
